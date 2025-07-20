@@ -1,3 +1,4 @@
-# Portfolio Website – Annayuna
-This is my personal portfolio website built using React.js.
+# My Portfolio
+
+Visit my live portfolio: [annayunaportfolio.netlify.app](https://annayunaportfolio.netlify.app)
 

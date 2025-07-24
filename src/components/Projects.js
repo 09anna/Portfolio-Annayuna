@@ -16,7 +16,7 @@ export const Projects = () => {
       imgUrl: projImg1,
     },
     {
-      title: "FurniHaus Design",
+      title: "Social Media Clone",
       description: "Home Page",
       imgUrl: clone,
     },
@@ -51,7 +51,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
-                <p>I have worked on a few beginner-level projects to strengthen my understanding of Frontend development and UI design. ReciFree: A Cooking Blog where users can submit their own created recipes. I designed a clean and simple portfolio layout in Figma, prioritizing user-friendly structure and highlights of my projects. I also created a homepage design for a furniture brand called Furni Haus in Figma, which is simple and user-friendly.</p>
+                <p>I have worked on a few beginner-level projects to strengthen my understanding of Frontend development. ReciFree: A Cooking Blog where users can submit their own created recipes. I designed a clean and simple portfolio layout in Figma, prioritizing user-friendly structure and highlights of my projects. I also built social media clone using MERN stack, which is simple and user-friendly.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>

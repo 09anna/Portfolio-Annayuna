@@ -21,7 +21,7 @@ export const Projects = () => {
       imgUrl: clone,
     },
     {
-      title: "Annayuna/Portfolio",
+      title: "UI of Annayuna/Portfolio",
       description: "Simple Portfolio Design",
       imgUrl: projImg3,
     },

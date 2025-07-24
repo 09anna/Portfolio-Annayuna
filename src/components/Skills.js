@@ -36,7 +36,7 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p><br></br> My skills include Figma for UI/UX design, and I am proficient in HTML, CSS, and JavaScript for creating responsive and interactive websites. I am familiar with using React.js to build dynamic front-end applications and Node.js for developing scalable back-end services. Additionally, I have experience working with MySQL to manage and query relational databases, allowing me to work on full-stack development projects.</p>
+                        <p><br></br> My skills include Figma for UI/UX design, and I am proficient in HTML, CSS, and JavaScript for creating responsive and interactive websites. I am familiar with using React.js to build dynamic front-end applications and Node.js for developing scalable back-end services. Additionally, I have experience working with MySQL, Mongodb to manage and query relational databases, allowing me to work on full-stack development projects.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />

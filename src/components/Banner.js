@@ -57,7 +57,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hello! I'm Annayuna Rai.`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p> I am a highly motivated and reliable individual currently pursuing my degree in Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT). With a keen interest in UI/UX design, presently seeking to apply for an internship program in order to develop my technical and creative skills and to get hands-on training. Eagerness to learn and improve continuously, I thrive both independently as well as in collaborative environment.</p>
+                  <p> I am a highly motivated and reliable individual currently pursuing my degree in Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT). I am actively seeking a React Developer internship to strengthen my front-end development skills through practical experience. I’m highly motivated, quick to learn, and confident working both independently and as part of a team.</p>
                   {/*<button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>*/}
               </div>}
             </TrackVisibility>
